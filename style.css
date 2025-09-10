@@ -176,7 +176,7 @@ margin-top: -17%;
    font-size: 19px;
    color: #7b9688;
    font-weight: 800;
-   margin-top: 15%;
+   margin-top: 10%;
    
 }
 .copas{
@@ -192,9 +192,13 @@ margin-top: -17%;
   
    
 }
+.cajaboton{
+text-align: center;
+}
 .primary {
   min-width: 130px;
   height: 40px;
+  text-decoration: none;
   color: #fff;
   padding: 5px 10px;
   font-weight: bold;
@@ -207,7 +211,6 @@ margin-top: -17%;
   border-radius: 5px;
   border: none;
   background-color: #586e54;
-  margin-left: 36%;
   margin-top: 5%;
   font-family: 'Julius Sans One', sans-serif;
   background-image: url(./imagenes/papelitos.gif);
@@ -279,7 +282,7 @@ margin-top: -17%;
    font-size: 19px;
    color: #7b9688;
    font-weight: 800;
-   margin-top: 15%;
+   margin-top: 22%;
    
 }
 .parrafo7{
@@ -297,7 +300,7 @@ margin-top: -17%;
    font-size: 19px;
    color: #7b9688;
    font-weight: 800;
- margin-top: 10%;
+ margin-top: 15%;
 }
 .parrafo9{
     font-family: 'Dancing Script', cursive; 
@@ -333,7 +336,7 @@ margin-top: -17%;
    font-size: 19px;
    color:#7b9688;
    font-weight: 800;
-margin-top: 15%;
+margin-top: 20%;
 }
 .percha{
   width: 10%;
@@ -392,10 +395,10 @@ margin-top: 15%;
   font-weight: 580;
   margin-top: 15%;
 }
-.coral{
-  width: 45%;
-  margin-top: 8%;
-  margin-left: 28%;
+.novios{
+  width: 35%;
+  margin-top: 10%;
+  margin-left: 33%;
 }
 .florfinal{
   width: 25%;
