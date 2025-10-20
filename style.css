@@ -154,7 +154,14 @@ width: 35%;
 margin-left: 70%;
 margin-top: -17%;
 }
-
+.parrafonuevo{
+  font-family: 'Dancing Script', cursive; 
+  font-size: 22px;
+  color: #414141;
+  font-weight: 550;
+  margin-top: 5%;
+  text-align: center;
+}
 .principal{
   width: 90%;
   margin-left: 5%;
